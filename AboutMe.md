@@ -14,3 +14,7 @@ I'm passionate about data, predictive modeling, finance, and helping businesses 
 In my free time, I enjoy exploring new technologies, building projects, and learning new skills.
 
 Feel free to explore my projects and learn more about my work!
+
+[Download My Resume](https://evas0210.github.io/EvaShen_Resume_2025.pdf){:target="_blank" style="display:inline-block; padding:10px 20px; background:#4CAF50; color:white; text-decoration:none; border-radius:5px; margin-top:10px;}
+
+
