@@ -1,0 +1,15 @@
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+# About Me
+
+Hi! I'm Eva Shen.  
+I'm a Incoming Quantitative Analyst at Bank of America and an Operations Research and Information Engineering (ORIE) M.Eng student at Cornell University.
+
+I'm passionate about data, predictive modeling, finance, and helping businesses make better decisions through analytics.  
+In my free time, I enjoy exploring new technologies, building projects, and learning new skills.
+
+Feel free to explore my projects and learn more about my work!
