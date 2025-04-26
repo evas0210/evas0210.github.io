@@ -83,4 +83,8 @@ navigation:
     url: /AboutMe/
   - title: Projects
     url: /projects/
+  - title: My Cat 
+    url: /Hakuna
+  - title: Interests & Hobbies 
+    url: /Interests
 
