@@ -7,6 +7,7 @@ permalink: /AboutMe/
 <img src="https://github.com/your-github-username.png" alt="Eva Shen" width="200" style="border-radius: 50%;">
 
 Hi! I'm Eva Shen.  
+
 I'm a Incoming Quantitative Analyst at Bank of America and an Operations Research and Information Engineering (ORIE) M.Eng student at Cornell University.
 
 I'm passionate about data, predictive modeling, finance, and helping businesses make better decisions through analytics.  
