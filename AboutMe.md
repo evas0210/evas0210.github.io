@@ -4,7 +4,7 @@ title: About Me
 permalink: /AboutMe/
 ---
 
-<img src="/Website1.JPG" alt="Eva Shen" width="200" style="border-radius:50%;">
+<img src="/Website1.JPG" alt="Eva Shen" width="400" >
 
 Hi! I'm Eva Shen.  
 
