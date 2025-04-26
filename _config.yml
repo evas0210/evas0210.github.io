@@ -75,3 +75,12 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+navigation:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about/
+  - title: Projects
+    url: /projects/
+
