@@ -4,7 +4,7 @@ title: About Me
 permalink: /AboutMe/
 ---
 
-<img src="https://github.com/your-github-username.png" alt="Eva Shen" width="200" style="border-radius: 50%;">
+/Website1.JPG
 
 Hi! I'm Eva Shen.  
 
