@@ -80,7 +80,7 @@ navigation:
   - title: Home
     url: /
   - title: About Me
-    url: /about/
+    url: /AboutMe/
   - title: Projects
     url: /projects/
 
