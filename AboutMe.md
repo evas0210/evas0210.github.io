@@ -8,10 +8,7 @@ permalink: /AboutMe/
 
 Hi! I'm Eva Shen.  
 
-I'm a Incoming Quantitative Analyst at Bank of America and an Operations Research and Information Engineering (ORIE) M.Eng student at Cornell University.
-
-I'm passionate about data, predictive modeling, finance, and helping businesses make better decisions through analytics.  
-In my free time, I enjoy exploring new technologies, building projects, and learning new skills.
+I'm currently pursuing a Master of Engineering in Data Science at Cornell University, with expected graduation in May 2025. I previously earned my Bachelor of Science in Operations Research and Information Engineering, with a minor in Computer Science, also from Cornell. My academic journey has been shaped by a strong foundation in quantitative analysis, programming, and systems optimization. I've completed coursework in areas such as Optimization, Probability and Statistics, Stochastic Processes, Financial Engineering, and Machine Learning, as well as Object-Oriented Programming and Data Structures. I’ve consistently maintained strong academic standing, earning a place on the Cornell Dean’s Honor List. I'm passionate about data, predictive modeling, finance, and helping businesses make better decisions through analytics. In my free time, I enjoy exploring new technologies, building projects, and learning new skills.
 
 Feel free to explore my projects and learn more about my work!
 
