@@ -3,7 +3,6 @@ layout: page
 title: My Cat
 permalink: /Hakuna/
 ---
-
 <style>
 .slideshow {
   position: relative;
@@ -35,9 +34,7 @@ permalink: /Hakuna/
   100% { transform: translateX(0); }
 }
 </style>
-
 ### Take a break from learning about me! Learn about my Cat! 🐱
-
 <div class="slideshow">
   <div class="slides">
     <img src="/Hakuna.png" alt="Hakuna">
@@ -48,10 +45,8 @@ permalink: /Hakuna/
     <img src="/Hakuna6.PNG" alt="Hakuna6">
   </div>
 </div>
-
 This is my cat, Hakuna Matata. She is currently 4 years old and turning 5 on August 18!  
 She’s a picky eater but LOVES her freeze-dried chicken snacks.  
-
 She’s super playful and active, always zooming around the house.  
 If you got bored from learning about me and my projects, you can't get bored at this adorable slideshow of her! 
 
