@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interest & Clubs
-permalink: /Hakuna/
+permalink: /Interests/
 ---
 
 ## Clubs Involvment - Cornell's Internation Student Union 
