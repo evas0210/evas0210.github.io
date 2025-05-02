@@ -8,7 +8,6 @@ permalink: /Hakuna/
 .slideshow {
   position: relative;
   width: 400px;
-  height: 500px;
   margin: auto;
   overflow: hidden;
   border-radius: 10px;
@@ -16,7 +15,6 @@ permalink: /Hakuna/
 
 .slides {
   display: flex;
-  width: 2400px; /* 6 images x 400px */
   animation: slide 24s infinite;
 }
 
@@ -37,7 +35,7 @@ permalink: /Hakuna/
 }
 </style>
 
-### Take a break from learning about me! Learn about my Cat! 
+### Take a break from learning about me! Learn about my Cat! 🐱
 
 <div class="slideshow">
   <div class="slides">
@@ -50,6 +48,9 @@ permalink: /Hakuna/
   </div>
 </div>
 
-<p>
-This is my Cat Hakuna Matata. She is currently 4 years old and turning 5 on August 18! She is a picky eater but loves her freeze-dried chicken snacks. She is an active girlie and loves to play. If you got bored learning about me and my project, take a break and look at these adorable photos of her :)
-</p>
+This is my cat, Hakuna Matata. She is currently 4 years old and turning 5 on August 18!  
+She’s a picky eater but LOVES her freeze-dried chicken snacks.  
+
+She’s super playful and active, always zooming around the house.  
+If you got bored from learning about me and my projects, you can't get bored at this adorable slideshow of her! 
+
