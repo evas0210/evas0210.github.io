@@ -4,6 +4,7 @@ title: My Cat
 permalink: /Hakuna/
 ---
 
+##Take a break from learning about me! Learn about my Cat! 
 
 <img src="/Hakuna.png" alt="Hakuna" width="400" >
 
