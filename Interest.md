@@ -15,5 +15,48 @@ Outside of academics and work, I enjoy staying active and spending quality time 
 #### Foodie Moments
 Here are some photos from hangouts with my friends and family! Don't get hungry :) 
 
+<style>
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.gallery img {
+  width: 200px;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+}
+</style>
+
+<div class="gallery">
+  <img src="/Food1.png" alt="food1">
+  <img src="/Food2.png" alt="food2">
+  <img src="/Food3.png" alt="food3">
+  <img src="/Food4.png" alt="food4">
+  <img src="/Food5.png" alt="food5">
+  <img src="/Food6.png" alt="food6">
+  <img src="/Food7.png" alt="food7">
+  <img src="/Food8.png" alt="food8">
+  <img src="/Food9.png" alt="food9">
+  <img src="/Food10.png" alt="food10">
+  <img src="/Food11.png" alt="food11">
+  <img src="/Food12.png" alt="food12">
+  <img src="/Food13.png" alt="food13">
+</div>
+
+
+
+
+
 
 
