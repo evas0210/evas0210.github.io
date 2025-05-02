@@ -23,7 +23,7 @@ permalink: /Hakuna/
   height: auto;
   flex-shrink: 0;
   object-fit: contain;
-  margin-bottom: -10px; /* <<< This removes the white space */
+  margin-bottom: -10px;
 }
 @keyframes slide {
   0% { transform: translateX(0); }
@@ -52,13 +52,10 @@ permalink: /Hakuna/
 
 <p style="margin-top: -10px;">
 This is my cat, Hakuna Matata. She is currently 4 years old and turning 5 on August 18!  
-She’s a picky eater but LOVES her freeze-dried chicken snacks.
+She’s a picky eater but loves her freeze-dried chicken snacks.
 
-She’s super playful and active, always zooming around the house.  
+She’s super playful and active, always running around the house.  
 If you got bored from learning about me and my projects, you can’t get bored at this adorable slideshow of her!
 </p>
-This is my cat, Hakuna Matata. She is currently 4 years old and turning 5 on August 18!  
-She’s a picky eater but LOVES her freeze-dried chicken snacks.  
-She’s super playful and active, always zooming around the house.  
-If you got bored from learning about me and my projects, you can't get bored at this adorable slideshow of her! 
+\
 
