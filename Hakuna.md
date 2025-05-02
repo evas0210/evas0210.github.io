@@ -7,7 +7,7 @@ permalink: /Hakuna/
 <style>
 .slideshow {
   position: relative;
-  width: 400px;
+  max-width: 600px;
   margin: auto;
   overflow: hidden;
   border-radius: 10px;
@@ -15,22 +15,23 @@ permalink: /Hakuna/
 
 .slides {
   display: flex;
-  animation: slide 24s infinite;
+  animation: slide 30s infinite;
 }
 
 .slides img {
-  width: 400px;
+  max-width: 100%;
   height: auto;
   flex-shrink: 0;
+  object-fit: contain;
 }
-
 @keyframes slide {
   0% { transform: translateX(0); }
-  16.6% { transform: translateX(0); }
-  33.3% { transform: translateX(-400px); }
-  49.9% { transform: translateX(-400px); }
-  66.6% { transform: translateX(-800px); }
-  83.2% { transform: translateX(-800px); }
+  14.2% { transform: translateX(0); }
+  28.4% { transform: translateX(-100%); }
+  42.6% { transform: translateX(-100%); }
+  56.8% { transform: translateX(-200%); }
+  71.0% { transform: translateX(-200%); }
+  85.2% { transform: translateX(-300%); }
   100% { transform: translateX(0); }
 }
 </style>
