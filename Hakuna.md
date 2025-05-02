@@ -23,7 +23,7 @@ permalink: /Hakuna/
   height: auto;
   flex-shrink: 0;
   object-fit: contain;
-  margin-bottom: -10px;
+  margin-bottom: -50px;
 }
 @keyframes slide {
   0% { transform: translateX(0); }
@@ -50,7 +50,7 @@ permalink: /Hakuna/
   </div>
 </div>
 
-<p style="margin-top: -10px;">
+<p style="margin-top: -50px;">
 This is my cat, Hakuna Matata. She is currently 4 years old and turning 5 on August 18!  
 She’s a picky eater but loves her freeze-dried chicken snacks.
 
