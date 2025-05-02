@@ -23,7 +23,7 @@ permalink: /Hakuna/
   height: auto;
   flex-shrink: 0;
   object-fit: contain;
-  margin-bottom: -100px;
+  margin-bottom: -80px;
 }
 @keyframes slide {
   0% { transform: translateX(0); }
@@ -57,5 +57,4 @@ She’s a picky eater but loves her freeze-dried chicken snacks.
 She’s super playful and active, always running around the house.  
 If you got bored from learning about me and my projects, you can’t get bored at this adorable slideshow of her!
 </p>
-\
 
